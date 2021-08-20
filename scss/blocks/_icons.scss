@@ -1,0 +1,214 @@
+@import "../vars";
+
+.icons {
+  position: absolute;
+  width: 1440px;
+  height: 344px;
+  left: 0px;
+  top: 700px;
+  background: #f7f7f7;
+
+  .Pellentesque {
+    position: absolute;
+    width: 257px;
+    height: 223px;
+    left: 161px;
+    top: 72px;
+
+    &__img {
+      position: absolute;
+      width: 80px;
+      height: 80px;
+      left: 90px;
+      margin-top: 0;
+    }
+
+    &__title {
+      position: absolute;
+      width: 109px;
+      height: 24px;
+      margin-left: 80px;
+      margin-top: 102px;
+
+      font-family: Roboto Slab;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 18px;
+      line-height: 24px;
+      text-align: center;
+
+      color: #4e4e4e;
+    }
+
+    &__subtitle {
+      position: absolute;
+      width: 257px;
+      height: 72px;
+      margin-left: 0px;
+      margin-top: 150px;
+
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 24px;
+
+      text-align: center;
+
+      color: #000000;
+    }
+  }
+
+  .Consectetur {
+    position: absolute;
+    width: 257px;
+    height: 223px;
+    margin-left: 456px;
+    margin-top: 72px;
+
+    &__img {
+      position: absolute;
+      width: 80px;
+      height: 80px;
+      margin-left: 90px;
+      margin-top: 0px;
+    }
+
+    &__title {
+      position: absolute;
+      width: 109px;
+      height: 24px;
+      margin-left: 80px;
+      margin-top: 102px;
+
+      font-family: Roboto Slab;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 18px;
+      line-height: 24px;
+      text-align: center;
+
+      color: #4e4e4e;
+    }
+
+    &__subtitle {
+      position: absolute;
+      width: 257px;
+      height: 72px;
+      margin-left: 0px;
+      margin-top: 150px;
+
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 24px;
+
+      text-align: center;
+
+      color: #000000;
+    }
+  }
+
+  .Tristiquet {
+    position: absolute;
+    width: 257px;
+    height: 223px;
+    left: 742px;
+    top: 72px;
+
+    &__img {
+      position: absolute;
+      width: 80px;
+      height: 80px;
+      margin-left: 90px;
+      margin-top: 0px;
+    }
+
+    &__title {
+      position: absolute;
+      width: 109px;
+      height: 24px;
+      margin-left: 80px;
+      margin-top: 102px;
+
+      font-family: Roboto Slab;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 18px;
+      line-height: 24px;
+      text-align: center;
+
+      color: #4e4e4e;
+    }
+
+    &__subtitle {
+      position: absolute;
+      width: 257px;
+      height: 72px;
+      margin-left: 0px;
+      margin-top: 150px;
+
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 24px;
+
+      text-align: center;
+
+      color: #000000;
+    }
+  }
+
+  .Fermentum {
+    position: absolute;
+    width: 254px;
+    height: 223px;
+    left: 1028px;
+    top: 72px;
+
+    &__img {
+      position: absolute;
+      width: 80px;
+      height: 80px;
+      margin-left: 90px;
+      margin-top: 0px;
+    }
+
+    &__title {
+      position: absolute;
+      width: 109px;
+      height: 24px;
+      margin-left: 80px;
+      margin-top: 102px;
+
+      font-family: Roboto Slab;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 18px;
+      line-height: 24px;
+      text-align: center;
+
+      color: #4e4e4e;
+    }
+
+    &__subtitle {
+      position: absolute;
+      width: 257px;
+      height: 72px;
+      margin-left: 0px;
+      margin-top: 150px;
+
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 24px;
+
+      text-align: center;
+
+      color: #000000;
+    }
+  }
+}

@@ -1,0 +1,63 @@
+@import "../vars";
+
+.banner {
+  position: absolute;
+  width: 1440px;
+  height: 600px;
+  left: 0px;
+  top: 100px;
+
+  &__title {
+    position: absolute;
+    width: 986px;
+    height: 40px;
+    left: 227px;
+    top: 300px;
+
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 40px;
+    color: #ffffff;
+  }
+
+  &__subtitle {
+    position: absolute;
+    width: 834px;
+    height: 40px;
+    left: 303px;
+    top: 380px;
+
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 40px;
+    color: #a8a8a8;
+  }
+  &__info {
+    position: absolute;
+    width: 129px;
+    height: 45px;
+    left: 655px;
+    top: 470px;
+  }
+
+  &__submit {
+    width: 129px;
+    height: 45px;
+    left: 675px;
+    top: 486px;
+    background: #3f8dbf;
+    box-shadow: inset 0px -4px 0px rgba(0, 0, 0, 0.15);
+    border-radius: 3px;
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 14px;
+    text-transform: uppercase;
+    color: #ffffff;
+  }
+}

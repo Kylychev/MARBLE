@@ -1,0 +1,202 @@
+@import "../vars";
+
+.latest {
+  position: absolute;
+  width: 1440px;
+  height: 562px;
+  left: 0px;
+  top: 1045px;
+  background: #f7f7f7;
+
+  &__work {
+    position: absolute;
+    width: 106.02px;
+    height: 35px;
+    left: 166.74px;
+    top: 35px;
+    font-family: Roboto Condensed;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 35px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #4e4e4e;
+  }
+
+  .Card {
+    position: absolute;
+    width: 353.4px;
+    height: 392px;
+    left: 165.73px;
+    top: 107px;
+
+    &__img {
+      position: absolute;
+      width: 353.4px;
+      height: 248.29px;
+    }
+
+    &__title {
+      position: absolute;
+      width: 177.71px;
+      height: 24px;
+      margin-left: 0px;
+      margin-top: 281px;
+      font-family: Roboto Slab;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 18px;
+      line-height: 24px;
+      text-transform: capitalize;
+      color: #4e4e4e;
+    }
+
+    &__subtitle {
+      position: absolute;
+      width: 144.39px;
+      height: 20px;
+      margin-left: 0;
+      margin-top: 310px;
+      font-family: Roboto Slab;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 13px;
+      line-height: 20px;
+      text-align: center;
+      text-transform: capitalize;
+      color: #adadad;
+    }
+
+    &__subtitle-2 {
+      position: absolute;
+      width: 353.4px;
+      height: 56px;
+      margin-left: 0px;
+      margin-top: 340px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 28px;
+      color: #5c5c5c;
+    }
+  }
+
+  .Project {
+    position: absolute;
+    width: 353.4px;
+    height: 392px;
+    left: 550.43px;
+    top: 107px;
+
+    &__img {
+      position: absolute;
+      width: 353.4px;
+      height: 248.29px;
+    }
+
+    &__title {
+      position: absolute;
+      width: 177.71px;
+      height: 24px;
+      margin-left: 0px;
+      margin-top: 281px;
+
+      font-family: Roboto Slab;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 18px;
+      line-height: 24px;
+      text-transform: capitalize;
+      color: #4e4e4e;
+    }
+
+    &__subtitle {
+      position: absolute;
+      width: 154.49px;
+      height: 20px;
+      margin-left: 0;
+      margin-top: 310px;
+      font-family: Roboto Slab;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 13px;
+      line-height: 20px;
+      text-transform: capitalize;
+      color: #adadad;
+    }
+
+    &__subtitle-2 {
+      position: absolute;
+      width: 353.4px;
+      height: 56px;
+      margin-left: 0px;
+      margin-top: 340px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 28px;
+      color: #5c5c5c;
+    }
+  }
+
+  .Cover {
+    position: absolute;
+    width: 353.4px;
+    height: 392px;
+    left: 934.13px;
+    top: 107px;
+
+    &__img {
+      position: absolute;
+      width: 353.4px;
+      height: 248.29px;
+    }
+
+    &__title {
+      position: absolute;
+      width: 250.41px;
+      height: 24px;
+      margin-left: 0px;
+      margin-top: 281px;
+      font-family: Roboto Slab;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 18px;
+      line-height: 24px;
+      text-transform: capitalize;
+      color: #4e4e4e;
+    }
+
+    &__subtitle {
+      position: absolute;
+      width: 160.55px;
+      height: 20px;
+      margin-left: 0;
+      margin-top: 310px;
+      font-family: Roboto Slab;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 13px;
+      line-height: 20px;
+      text-transform: capitalize;
+      color: #adadad;
+    }
+
+    &__subtitle-2 {
+      position: absolute;
+      width: 353.4px;
+      height: 56px;
+      margin-left: 0px;
+      margin-top: 340px;
+      font-family: Roboto;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 28px;
+      color: #5c5c5c;
+    }
+  }
+}

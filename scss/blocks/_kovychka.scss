@@ -1,0 +1,31 @@
+@import "../vars";
+
+.kovychka {
+  position: absolute;
+  width: 1440px;
+  height: 284px;
+  left: 0px;
+  top: 1605px;
+  background: #efefef;
+
+  &__img {
+    position: absolute;
+    margin-left: 701px;
+    margin-top: 67px;
+  }
+
+  &__subtitle {
+    position: absolute;
+    width: 875px;
+    height: 60px;
+    margin-left: 282px;
+    margin-top: 133px;
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #a1a1a1;
+  }
+}
